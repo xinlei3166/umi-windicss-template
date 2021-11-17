@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[15],{A8du:function(E,d,n){"use strict";n.r(d),n.d(d,"default",function(){return a});var l=n("IzEo"),s=n("bx4M"),t=n("nKUr"),c=n.n(t);function a(){return Object(t.jsx)(s.a,{className:"h-full",children:Object(t.jsx)("div",{className:"title",children:"login"})})}}}]);

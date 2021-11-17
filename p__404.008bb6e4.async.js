@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{GEoZ:function(E,s,n){"use strict";n.r(s),n.d(s,"default",function(){return d});var l=n("IzEo"),a=n("bx4M"),t=n("nKUr"),c=n.n(t);function d(){return Object(t.jsx)(a.a,{className:"h-full",children:Object(t.jsx)("div",{className:"title",children:"404"})})}}}]);
